@@ -1,6 +1,6 @@
-**This is code for CPR feedback device.**
+# This is code for CPR feedback device.
 
-Components Needed for it are:
+## Components Needed for it are:
 1) Arduino
 2) Ultrasonic Sensor
 3) Batteries
@@ -12,4 +12,6 @@ The ultrasonic sensor and arduino the distance between the wall of the plastic j
 It then transmits that information using bluetooth module to the laptop.
 Now, the data is converted into real time updating graph in the Excel Spreadsheet.
 
-*Note: You will need to install data streamer plugin in excel to communicate to the arduino from the Excel.*
+```
+Note: You will need to install data streamer plugin in excel to communicate to the arduino from the Excel.
+```
